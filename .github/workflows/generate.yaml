@@ -1,4 +1,5 @@
 name: "Generate HTML and PDF"
+
 on:
   push:
     branches:
@@ -7,12 +8,13 @@ on:
       - flake.*
       - resume.md
       - style.css
+
 jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v4
-    - uses: cachix/install-nix-action@V27
+    - uses: cachix/install-nix-action@v27
       with:
         github_access_token: ${{ secrets.GITHUB_TOKEN }}
     - name: Build Resumes
@@ -27,6 +29,7 @@ jobs:
       with:
         name: resume
         path: out/
+
   publish:
     runs-on: ubuntu-latest
     needs: generate
@@ -46,6 +49,10 @@ jobs:
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
         publish_dir: ./public
+    - name: Install Hub
+      run: |
+        sudo apt-get update
+        sudo apt-get install -y hub
     - name: Set Tag
       id: current-datetime
       run: echo "CURRENT_DATETIME=$(date +'%Y-%m-%d-%H_%M_%S%z')" >> "$GITHUB_OUTPUT"
