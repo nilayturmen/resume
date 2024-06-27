@@ -1,44 +1,69 @@
 ---
-title: Viktor Vaughn
+title: NILAY TÜRMEN
 ---
-###### [ [Github](https://www.github.com/siph) ] - [ [Blog](https://www.dev.to/siph) ] - [ v.vaughn@gmail.com ] - [ 814 332 8091 ]
-#### Experienced project manager with a track record of delivering high-quality results on time and within budget.
+###### [ nilayturmen@gmail.com ] - [ [Linkedin](https://www.linkedin.com/in/nilay-turmen/) ] - [ Munich, Germany ]
 
 ## Skills
-```Project management```
-```Team leadership```
-```Budget management```
-```Communication```
-```Problem-solving```
-```Agile methodology```
-```Microsoft Project```
-```JIRA```
-```SQL```
+**Cloud Technologies:** Google Cloud Platform (GCP), AWS <br>
+**Languages:** SQL, Python <br>
+**Databases:** Postgres, MySQL<br>
+**ETL:** dbt, Fivetran, Airbyte, Airflow, Hightouch <br>
+**Data Visualization:** Tableau, Data Studio, Looker, Metabase, Apache Superset, Streamlit (Python) <br>
+**Developer Tools:** Git, Github, Docker, Terraform, Rest <br>
 
-**Languages**: Java, Kotlin, Rust  
-**Databases**: Redis, Postgres, Neo4j  
-**Tools**: Spring, Kubernetes, Github-Actions, Linux, Nix, Git, Rest, GraphQL
+## Work Experience
+### Senior Data/Analytics Engineer, Plan A
+##### April 2024 - Present Munich, Germany
+- Developed customer-facing feature leveraging a variety of AWS products (SNS, SQS, DynamoDB, S3) and event-driven architecture to support customers' decarbonization objectives.
+- Supported implementation of Airflow as the orchestration tool, enhancing data pipeline reliability and efficiency.
+- Conducted comprehensive code reviews, maintained thorough documentation, and authored RFCs to ensure code quality and project alignment.
 
-## Experience
-### Jamba Juice
-##### Senior Project Manager, January 2015 - Present
-- Led cross-functional teams in the successful delivery of multiple software projects, including a major website redesign and a mobile app launch.
-- Managed budgets of up to $5 million and ensured projects were delivered on time and within scope.
-- Coordinated communication with stakeholders, including executive leadership and development teams.
+### Senior Data/Analytics Engineer, Alaiko
+##### July 2022 - April 2024 Munich, Germany
+- Lead end-to-end analytics projects: from business understanding to data products creation, ensuring alignment of business objectives with technical solutions.
+  - Order Cost Breakdown; the most requested customer feature, identifying components contributing to total order fulfillment costs. 
+  - Inventory forecasting; helping customers manage inventories effectively while generating additional revenue as a paid module.
+- Developed the data warehouse from scratch on Google Cloud Platform (GCP), enabling efficient data storage, retrieval, and analysis.
+- Designed, developed and maintained scalable data pipelines using dbt (data build tool) to support critical business processes and decision-making.
+  - Invoicing pipeline; serving as backbone for Finance operations, automating 90% of manual tasks and enabling in-depth financial analysis.
+- Improved ETL process, decreased operational costs by 80% with a more efficient solution.
+- Refactored existing data models, resulting in 50%-60% cost savings, enhanced performance and maintainability by using advanced SQL optimisation techniques.
+- Mentored junior team members to improve their technical like SQL, Python, data visualization and analytical skills.
+- Enforced best practices such as version control with Git, infrastructure as code (IaC), quality tests, documentation.
 
-### PF Chang's
-##### Project Manager, February 2011 - December 2014
-- Managed a portfolio of software and hardware projects, including a new CRM implementation and a network infrastructure upgrade.
-- Worked closely with business analysts and technical teams to ensure project requirements were met and delivered on schedule.
-- Maintained project documentation and provided regular status updates to executive leadership.
+### Analytics Engineer, Delivery Hero
+##### May 2021 - July 2022 Berlin, Germany
+- Developed and deployed big data pipelines on AWS, optimised the existing ones to help company getting quality and easily accessible data.
+  - Dynamic Pricing pipeline; reconciliation of multi TB of frontend and backend data to provide visibility on full order journey and assess the impact of different pricing strategies in 70 countries.
+  - Time Estimation Service pipeline; providing visibility on the pain points between the time from when the user places an order to when the rider delivers it.
+- Built engaging dashboards on Tableau to measure the KPIs, support day-to-day operations and decisions.
+- Supported business departments analytics needs utilising SQL and Python for data analysis and ensured accurate and timely data delivery.
 
+### Data Analyst - CEO Office, Moneyfarm
+##### Mar 2019 - May 2021 Milan, Italy
+- Actively involved in executive team activities; conducted analysis on cross-functional topics and facilitated data-driven decision-making at the executive level.
+  - Pricing strategy; analyzed financial data and developed a pricing strategy to maximize revenue and presented recommendations to the executive team, resulting in a 20% increase in revenues without significant customer churn.
+  - Investment advisor value analysis to decide the optimal number of hires; cost-benefit leading to a strategic hiring decision.
+- Developed and owned the analysis and reporting landscape of cross-company KPIs.
+- Created dashboards using Tableau to monitor company’s overall health and key metrics.
+- Automated reporting by using business intelligence tools like Metabase to support teams’ ability to self-serving.
 
-## Projects
-**[*resume-md*](http://www.github.com/siph/resume-md)**
-
-Build your resume using markdown and have it generated as a pdf and html.
+### Finance Data Analyst, eBay
+##### Mar 2018 - Mar 2021 Milan, Italy
+- Conducted revenue and costs analysis to support business decision-making.
+  - Cost management project, reducing costs more than 5%.
+- Provided support for budgeting and forecasting processes.
+- Created and maintained financial dashboards and reports that were used by management to make critical business decisions.
 
 ## Education
+### M. Sc. Management Engineering
+**Politecnico di Milano** 2018 Milan, Italy
 
-### Reno University
-**Degree:** Bachelor of Science in Computer Science | **Years Attended:** 2016-2019 | **City, State:** Reno, NV
+### B. Sc. Industrial Engineering
+**Istanbul Technical University** 2015 Istanbul, Turkey
+
+## Languages
+**English:** Full Professional Proficiency <br>
+**Italian:** Full Professional Proficiency <br>
+**Turkish:** Native or Bilingual Proficiency <br>
+**German:** Limited Working Proficiency <br>
