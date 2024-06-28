@@ -21,7 +21,7 @@ title: Nilay Türmen
 ### Senior Data/Analytics Engineer, Alaiko
 ##### July 2022 - April 2024 Munich, Germany
 - Lead end-to-end analytics projects: from business understanding to data products creation, ensuring alignment of business objectives with technical solutions.
-  - Order cost breakdown; the most requested customer feature, identifying components contributing to total order fulfillment costs and cost drivers. 
+  - Order cost breakdown; the most requested customer feature, identifying components contributing to total order fulfillment costs. 
   - Inventory forecasting; aiding customers in effective inventory management and generating additional revenue.
 - Built dbt (data build tool) project from scratch on Google Cloud Platform (GCP), enabling efficient data modeling, quality and accessibility.
 - Designed, developed and maintained scalable data pipelines using dbt (data build tool) to support critical business processes and decision-making.
