@@ -96,7 +96,7 @@ h3 {
 h4 {
     font-size: 16px;
     color: #333;
-    text-align: center;
+    text-align: left;
     -webkit-margin-before: 0.02em;
     -webkit-margin-after: 0.02em;
 }
@@ -104,13 +104,13 @@ h4 {
 h5 {
     font-size: 14px;
     color: #333;
-    text-align: center;
+    text-align: left;
 }
 
 h6 {
     color: #777;
     font-size: 14px;
-    text-align: center;
+    text-align: left;
 }
 
 p,
