@@ -44,12 +44,11 @@ jobs:
       run: |
         mkdir public
         cp out/${{ github.actor }}_resume.html public/index.html
-    - name: Deploy to GitHub Pages
+    - name: Deploy
       uses: peaceiris/actions-gh-pages@v4
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
         publish_dir: ./public
-        publish_branch: gh-pages
     - name: Install Hub
       run: |
         wget https://github.com/github/hub/releases/download/v2.14.2/hub-linux-amd64-2.14.2.tgz
@@ -68,3 +67,4 @@ jobs:
         -a out/${{ github.actor }}_resume.pdf
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
