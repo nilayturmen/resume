@@ -51,8 +51,9 @@ jobs:
         publish_dir: ./public
     - name: Install Hub
       run: |
-        sudo apt-get update
-        sudo apt-get install -y hub
+        wget https://github.com/github/hub/releases/download/v2.14.2/hub-linux-amd64-2.14.2.tgz
+        tar -xzf hub-linux-amd64-2.14.2.tgz
+        sudo ./hub-linux-amd64-2.14.2/install
     - name: Set Tag
       id: current-datetime
       run: echo "CURRENT_DATETIME=$(date +'%Y-%m-%d-%H_%M_%S%z')" >> "$GITHUB_OUTPUT"

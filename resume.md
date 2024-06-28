@@ -21,20 +21,20 @@ title: NILAY TÜRMEN
 ### Senior Data/Analytics Engineer, Alaiko
 ##### July 2022 - April 2024 Munich, Germany
 - Lead end-to-end analytics projects: from business understanding to data products creation, ensuring alignment of business objectives with technical solutions.
-  - Order Cost Breakdown; the most requested customer feature, identifying components contributing to total order fulfillment costs. 
-  - Inventory forecasting; helping customers manage inventories effectively while generating additional revenue as a paid module.
-- Developed the data warehouse from scratch on Google Cloud Platform (GCP), enabling efficient data storage, retrieval, and analysis.
+  - Order cost breakdown; the most requested customer feature, identifying components contributing to total order fulfillment costs and cost drivers. 
+  - Inventory forecasting; aiding customers in effective inventory management and generating additional revenue.
+- Built dbt (data build tool) project from scratch on Google Cloud Platform (GCP), enabling efficient data modeling, quality and accessibility.
 - Designed, developed and maintained scalable data pipelines using dbt (data build tool) to support critical business processes and decision-making.
   - Invoicing pipeline; serving as backbone for Finance operations, automating 90% of manual tasks and enabling in-depth financial analysis.
-- Improved ETL process, decreased operational costs by 80% with a more efficient solution.
-- Refactored existing data models, resulting in 50%-60% cost savings, enhanced performance and maintainability by using advanced SQL optimisation techniques.
+- Improved ETL processes and decreased related costs by 70%-80% by implementing a more efficient solution.
+- Refactored existing data scripts, resulting in 50%-60% cost savings, enhanced performance and maintainability by using advanced SQL optimisation techniques.
 - Mentored junior team members to improve their technical like SQL, Python, data visualization and analytical skills.
 - Enforced best practices such as version control with Git, infrastructure as code (IaC), quality tests, documentation.
 
 ### Analytics Engineer, Delivery Hero
 ##### May 2021 - July 2022 Berlin, Germany
 - Developed and deployed big data pipelines on AWS, optimised the existing ones to help company getting quality and easily accessible data.
-  - Dynamic Pricing pipeline; reconciliation of multi TB of frontend and backend data to provide visibility on full order journey and assess the impact of different pricing strategies in 70 countries.
+  - Dynamic pricing pipeline; reconciled multi-TB of frontend and backend data to provide visibility on full order journeys and enable analysts to assess the impact of different pricing strategies in 70 countries.
   - Time Estimation Service pipeline; providing visibility on the pain points between the time from when the user places an order to when the rider delivers it.
 - Built engaging dashboards on Tableau to measure the KPIs, support day-to-day operations and decisions.
 - Supported business departments analytics needs utilising SQL and Python for data analysis and ensured accurate and timely data delivery.
@@ -42,8 +42,8 @@ title: NILAY TÜRMEN
 ### Data Analyst - CEO Office, Moneyfarm
 ##### Mar 2019 - May 2021 Milan, Italy
 - Actively involved in executive team activities; conducted analysis on cross-functional topics and facilitated data-driven decision-making at the executive level.
-  - Pricing strategy; analyzed financial data and developed a pricing strategy to maximize revenue and presented recommendations to the executive team, resulting in a 20% increase in revenues without significant customer churn.
-  - Investment advisor value analysis to decide the optimal number of hires; cost-benefit leading to a strategic hiring decision.
+  - Pricing strategy; analyzed financial data and developed a pricing strategy to maximize revenue, resulting in a 20% increase in revenues without significant customer churn.
+  - Investment advisor value analysis to decide the optimal number of hires; cost-benefit analysis leading to a strategic hiring decision.
 - Developed and owned the analysis and reporting landscape of cross-company KPIs.
 - Created dashboards using Tableau to monitor company’s overall health and key metrics.
 - Automated reporting by using business intelligence tools like Metabase to support teams’ ability to self-serving.
