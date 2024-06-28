@@ -21,8 +21,8 @@ title: Nilay Türmen
 ### Senior Data/Analytics Engineer, Alaiko
 ##### July 2022 - April 2024 Munich, Germany
 - Lead end-to-end analytics projects: from business understanding to data products creation, ensuring alignment of business objectives with technical solutions.
-  - Order cost breakdown; the most requested customer feature, identifying components contributing to total order fulfillment costs. 
-  - Inventory forecasting; aiding customers in effective inventory management and generating additional revenue.
+  - Order cost breakdown pipeline; the most requested customer feature, bring visibility on main costs drivers of for customers, identifying components contributing to total order fulfillment costs.
+  - Inventory forecasting model and pipeline; aiding customers in effective inventory management and generating additional revenue.
 - Built dbt (data build tool) project from scratch on Google Cloud Platform (GCP), enabling efficient data modeling, quality and accessibility.
 - Designed, developed and maintained scalable data pipelines using dbt (data build tool) to support critical business processes and decision-making.
   - Invoicing pipeline; serving as backbone for Finance operations, automating 90% of manual tasks and enabling in-depth financial analysis.
@@ -34,8 +34,8 @@ title: Nilay Türmen
 ### Analytics Engineer, Delivery Hero
 ##### May 2021 - July 2022 Berlin, Germany
 - Developed and deployed big data pipelines on AWS, optimised the existing ones to help company getting quality and easily accessible data.
-  - Dynamic pricing pipeline; reconciled multi-TB of frontend and backend data to provide visibility on full order journeys and enable analysts to assess the impact of different pricing strategies in 70 countries.
-  - Time Estimation Service pipeline; providing visibility on the pain points between the time from when the user places an order to when the rider delivers it.
+  - Dynamic pricing pipeline; reconciled and modelled multi-TB of frontend and backend data to provide visibility on full order journey. Enabled analysts to assess the impact of different pricing strategies in 70 countries.
+  - Time Estimation Service pipeline; enhanced analytics capabilities to identify pain points between the time from when the user places an order to when the rider delivers it.
 - Built engaging dashboards on Tableau to measure the KPIs, support day-to-day operations and decisions.
 - Supported business departments analytics needs utilising SQL and Python for data analysis and ensured accurate and timely data delivery.
 
