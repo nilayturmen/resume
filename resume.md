@@ -1,7 +1,7 @@
 ---
 title: Nilay Türmen
 ---
-###### [ ✉️ nilayturmen@gmail.com ] - [ [Linkedin](https://www.linkedin.com/in/nilay-turmen/) ] - [ Munich, Germany ]
+###### [ ✉️ [nilayturmen@gmail.com](mailto:nilayturmen@gmail.com) ] - [ [Linkedin](https://www.linkedin.com/in/nilay-turmen/) ] - [ Munich, Germany ]
 
 ## Skills
 **Cloud Technologies:** Google Cloud Platform (GCP), AWS <br>
