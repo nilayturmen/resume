@@ -11,12 +11,14 @@ title: Nilay Türmen
 **Data Visualization:** Tableau, Data Studio, Looker, Metabase, Apache Superset, Streamlit (Python) <br>
 **Developer Tools:** Git, Github, Docker, Terraform, Rest <br>
 
+
 ## Work Experience
 ### Senior Data/Analytics Engineer, Plan A
 ##### April 2024 - Present Munich, Germany
 - Developed customer-facing feature leveraging a variety of AWS products (SNS, SQS, DynamoDB, S3) and event-driven architecture to support customers' decarbonization objectives.
 - Supported implementation of Airflow as the orchestration tool, enhancing data pipeline reliability and efficiency.
 - Conducted comprehensive code reviews, maintained thorough documentation, and authored RFCs to ensure code quality and project alignment.
+
 
 ### Senior Data/Analytics Engineer, Alaiko
 ##### July 2022 - April 2024 Munich, Germany
@@ -31,6 +33,7 @@ title: Nilay Türmen
 - Mentored junior team members to improve their technical like SQL, Python, data visualization and analytical skills.
 - Enforced best practices such as version control with Git, infrastructure as code (IaC), quality tests, documentation.
 
+
 ### Analytics Engineer, Delivery Hero
 ##### May 2021 - July 2022 Berlin, Germany
 - Developed and deployed big data pipelines on AWS, optimised the existing ones to help company getting quality and easily accessible data.
@@ -38,6 +41,7 @@ title: Nilay Türmen
   - Time Estimation Service pipeline; enhanced analytics capabilities to identify pain points between the time from when the user places an order to when the rider delivers it.
 - Built engaging dashboards on Tableau to measure the KPIs, support day-to-day operations and decisions.
 - Supported business departments analytics needs utilising SQL and Python for data analysis and ensured accurate and timely data delivery.
+
 
 ### Data Analyst - CEO Office, Moneyfarm
 ##### Mar 2019 - May 2021 Milan, Italy
@@ -48,6 +52,7 @@ title: Nilay Türmen
 - Created dashboards using Tableau to monitor company’s overall health and key metrics.
 - Automated reporting by using business intelligence tools like Metabase to support teams’ ability to self-serving.
 
+
 ### Finance Data Analyst, eBay
 ##### Mar 2018 - Mar 2021 Milan, Italy
 - Conducted revenue and costs analysis to support business decision-making.
@@ -55,12 +60,14 @@ title: Nilay Türmen
 - Provided support for budgeting and forecasting processes.
 - Created and maintained financial dashboards and reports that were used by management to make critical business decisions.
 
+
 ## Education
 ### M.Sc. Management Engineering, Politecnico di Milano
 ##### 2018 Milan, Italy
 
 ### B.Sc. Industrial Engineering, Istanbul Technical University
 ##### 2015 Istanbul, Turkey
+
 
 ## Languages
 **English:** Full Professional Proficiency <br>
