@@ -9,7 +9,7 @@ title: Nilay Türmen
 **Database Systems:** Postgres, MySQL, DuckDB<br>
 **ETL:** dbt, Fivetran, Airbyte, Airflow, Hightouch <br>
 **Data Visualization:** Tableau, Data Studio, Looker, Metabase, Apache Superset, Streamlit (Python) <br>
-**Developer Tools:** Git, Github, Docker, Terraform, Rest <br>
+**Developer Tools:** Git, Github, Docker, Terraform, Rest
 
 
 ## Work Experience
@@ -32,7 +32,7 @@ title: Nilay Türmen
 - Refactored existing data scripts, resulting in 50%-60% cost savings, enhanced performance and maintainability by using advanced SQL optimisation techniques.
 - Mentored junior team members to improve their technical like SQL, Python, data visualization and analytical skills.
 - Enforced best practices such as version control with Git, infrastructure as code (IaC), quality tests, documentation.
-
+<br/><br/>
 
 ### Analytics Engineer, Delivery Hero
 ##### May 2021 - July 2022 Berlin, Germany
