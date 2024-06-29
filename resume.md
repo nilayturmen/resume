@@ -33,6 +33,7 @@ title: Nilay Türmen
 - Mentored junior team members to improve their technical like SQL, Python, data visualization and analytical skills.
 - Enforced best practices such as version control with Git, infrastructure as code (IaC), quality tests, documentation.
 <br/><br/>
+<br/><br/>
 
 ### Analytics Engineer, Delivery Hero
 ##### May 2021 - July 2022 Berlin, Germany
