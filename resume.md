@@ -54,7 +54,7 @@ title: Nilay Türmen
 
 
 ### Finance Data Analyst, eBay
-##### Mar 2018 - Mar 2021 Milan, Italy
+##### Mar 2018 - Mar 2019 Milan, Italy
 - Conducted revenue and costs analysis to support business decision-making.
   - Cost management project, reducing costs more than 5%.
 - Provided support for budgeting and forecasting processes.
