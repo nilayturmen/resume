@@ -6,7 +6,7 @@ title: Nilay Türmen
 ## Skills
 **Cloud Technologies:** Google Cloud Platform (GCP), AWS <br>
 **Languages:** SQL, Python <br>
-**Database Systems:** Postgres, MySQL<br>
+**Database Systems:** Postgres, MySQL, DuckDB<br>
 **ETL:** dbt, Fivetran, Airbyte, Airflow, Hightouch <br>
 **Data Visualization:** Tableau, Data Studio, Looker, Metabase, Apache Superset, Streamlit (Python) <br>
 **Developer Tools:** Git, Github, Docker, Terraform, Rest <br>
