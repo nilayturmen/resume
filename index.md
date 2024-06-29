@@ -56,11 +56,11 @@ title: "Nilay Türmen"
 - Created and maintained financial dashboards and reports that were used by management to make critical business decisions.
 
 ## Education
-### M. Sc. Management Engineering
-**Politecnico di Milano** 2018 Milan, Italy
+### M.Sc. Management Engineering, Politecnico di Milano
+##### 2018 Milan, Italy
 
-### B. Sc. Industrial Engineering
-**Istanbul Technical University** 2015 Istanbul, Turkey
+### B.Sc. Industrial Engineering, Istanbul Technical University
+##### 2015 Istanbul, Turkey
 
 ## Languages
 **English:** Full Professional Proficiency <br>
